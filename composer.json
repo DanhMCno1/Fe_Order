@@ -1,0 +1,9 @@
+{
+    "name": "admin/fe_order",
+    "autoload": {
+        "psr-4": {
+            "Admin\\FeOrder\\": "src/"
+        }
+    },
+    "require": {}
+}
